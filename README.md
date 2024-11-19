@@ -7,7 +7,7 @@
     />
 </p>
 
-- 🎓 I’m currently learning **Python in Talento Tech**
+- 📖 I’m currently learning **Python in Talento Tech**
 
 - 💬 Ask me about **Javascript**
 
