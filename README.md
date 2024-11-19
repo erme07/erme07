@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Erik Medina</h1>
+<h3 align="center">Passionate about programming and design</h3>
 
 <p align="left">
     <img
@@ -6,6 +7,9 @@
     />
 </p>
 
+- 🎓 I’m currently learning **Python in Talento Tech**
+
+- 💬 Ask me about **Javascript**
 
 <a href="https://github.com/DevUsuiSama">
     <img
