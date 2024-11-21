@@ -21,3 +21,30 @@
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=erme07&langs_count=6&line_height=34&theme=transparent&layout=compact&hide=papyrus&border_color=8080804d"
     />
 </a>
+
+<h2>Projects</h2>
+
+<a href="https://shoes-landing.pages.dev/">
+    <img
+        align="center"
+        src="a.webp"
+    />
+ </a>
+<a href="https://coffee-landpage.pages.dev/">
+    <img
+        align="center"
+        src="b.webp"
+    />
+</a>
+<a href="https://zona-geek.pages.dev/">
+    <img
+        align="center"
+        src="c.webp"
+    />
+</a>
+<a href="https://fashion-shopping-landing.pages.dev/">
+    <img
+        align="center"
+        src="d.webp"
+    />
+</a>
