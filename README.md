@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript**
 
-<a href="https://github.com/DevUsuiSama">
+<a href="https://github.com/erme07">
     <img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=erme07&show_icons=true&include_all_commits=true&line_height=30&count_private=true&theme=transparent&hide=contribs,issues&border_color=8080804d"
