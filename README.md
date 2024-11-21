@@ -24,25 +24,25 @@
 
 <h2>Projects</h2>
 
-<a href="https://shoes-landing.pages.dev/">
+<a href="https://shoes-landing.pages.dev/" target=”_blank”>
     <img
         align="center"
         src="a.webp"
     />
  </a>
-<a href="https://coffee-landpage.pages.dev/">
+<a href="https://coffee-landpage.pages.dev/" target=”_blank”>
     <img
         align="center"
         src="b.webp"
     />
 </a>
-<a href="https://zona-geek.pages.dev/">
+<a href="https://zona-geek.pages.dev/" target=”_blank”>
     <img
         align="center"
         src="c.webp"
     />
 </a>
-<a href="https://fashion-shopping-landing.pages.dev/">
+<a href="https://fashion-shopping-landing.pages.dev/" target=”_blank”>
     <img
         align="center"
         src="d.webp"
