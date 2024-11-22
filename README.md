@@ -26,6 +26,7 @@
 <span><img align="center" src="bulma.webp" title="Bulma" /></span>
 <span><img align="center" src="sass.webp" title="Sass" /></span>
 <span><img align="center" src="figma.webp" title="Figma" /></span>
+<span><img align="center" src="markdown.webp" title="Markdown" /></span>
 
 <h2>Projects</h2>
 
