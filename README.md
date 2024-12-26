@@ -27,6 +27,8 @@
 <span><img align="center" src="sass.webp" title="Sass" /></span>
 <span><img align="center" src="figma.webp" title="Figma" /></span>
 <span><img align="center" src="markdown.webp" title="Markdown" /></span>
+<span><img align="center" src="python.webp" title="Python" /></span>
+<span><img align="center" src="php.webp" title="PHP" /></span>
 
 <h2>Projects</h2>
 
