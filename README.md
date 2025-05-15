@@ -16,36 +16,36 @@
 
 <h2>Technologies</h2>
 
-<span> <img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/lang_c.webp" title="Lenguaje C" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/git.webp" title="Git" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/javascript.webp" title="Javascript" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/html.webp" title="HTML" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/css.webp" title="CSS" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/bootstrap.webp" title="Bootstrap" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/tailwind.webp" title="Tailwind" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/bulma.webp" title="Bulma" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/sass.webp" title="Sass" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/figma.webp" title="Figma" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/markdown.webp" title="Markdown" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/python.webp" title="Python" /></span>
-<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/php.webp" title="PHP" /></span>
+<span> <img align="center" src="https://i.ibb.co/N6Jp4PBM/lang-c.webp" title="Lenguaje C" /></span>
+<span><img align="center" src="https://i.ibb.co/v4Q7QLNW/git.webp" title="Git" /></span>
+<span><img align="center" src="https://i.ibb.co/KBMqFvm/javascript.webp" title="Javascript" /></span>
+<span><img align="center" src="https://i.ibb.co/BK7SsYb9/html.webp" title="HTML" /></span>
+<span><img align="center" src="https://i.ibb.co/7JDpSR6p/css.webp" title="CSS" /></span>
+<span><img align="center" src="https://i.ibb.co/S4SLGpJY/bootstrap.webp" title="Bootstrap" /></span>
+<span><img align="center" src="https://i.ibb.co/Rp0LbFQW/tailwind.webp" title="Tailwind" /></span>
+<span><img align="center" src="https://i.ibb.co/T35M5LM/bulma.webp" title="Bulma" /></span>
+<span><img align="center" src="https://i.ibb.co/zhYWWbDK/sass.webp" title="Sass" /></span>
+<span><img align="center" src="https://i.ibb.co/90kLfwT/figma.webp" title="Figma" /></span>
+<span><img align="center" src="https://i.ibb.co/Jw1KsJCx/markdown.webp" title="Markdown" /></span>
+<span><img align="center" src="https://i.ibb.co/wqz3KkV/python.webp" title="Python" /></span>
+<span><img align="center" src="https://i.ibb.co/PGqryhrT/php.webp" title="PHP" /></span>
 
 <h2>Projects</h2>
 
 <a href="https://shoes-landing.pages.dev/" target=”_blank”>
-    <img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/a.webp" title="Shoes landing page"/>
+    <img align="center" src="https://i.ibb.co/pB1BSmB6/a.webp" title="Shoes landing page"/>
 </a>
 
 <a href="https://coffee-landpage.pages.dev/" target=”_blank”>
-    <img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/b.webp" title="Coffee landing page"/>
+    <img align="center" src="https://i.ibb.co/krJwYf8/b.webp" title="Coffee landing page"/>
 </a>
 
 <br>
 
 <a href="https://zona-geek.pages.dev/" target=”_blank”>
-    <img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/c.webp" title="Zona Geek - web magazine"/>
+    <img align="center" src="https://i.ibb.co/PsMr3V7Y/c.webp" title="Zona Geek - web magazine"/>
 </a>
 
 <a href="https://fashion-shopping-landing.pages.dev/" target=”_blank”>
-    <img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/d.webp" title="Fashion shopping landing page"/>
+    <img align="center" src="https://i.ibb.co/NnjJtyfV/d.webp" title="Fashion shopping landing page"/>
 </a>
