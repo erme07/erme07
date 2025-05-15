@@ -16,36 +16,36 @@
 
 <h2>Technologies</h2>
 
-<span> <img align="center" src="lang_c.webp" title="Lenguaje C" /></span>
-<span><img align="center" src="git.webp" title="Git" /></span>
-<span><img align="center" src="javascript.webp" title="Javascript" /></span>
-<span><img align="center" src="html.webp" title="HTML" /></span>
-<span><img align="center" src="css.webp" title="CSS" /></span>
-<span><img align="center" src="bootstrap.webp" title="Bootstrap" /></span>
-<span><img align="center" src="tailwind.webp" title="Tailwind" /></span>
-<span><img align="center" src="bulma.webp" title="Bulma" /></span>
-<span><img align="center" src="sass.webp" title="Sass" /></span>
-<span><img align="center" src="figma.webp" title="Figma" /></span>
-<span><img align="center" src="markdown.webp" title="Markdown" /></span>
-<span><img align="center" src="python.webp" title="Python" /></span>
-<span><img align="center" src="php.webp" title="PHP" /></span>
+<span> <img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/lang_c.webp" title="Lenguaje C" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/git.webp" title="Git" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/javascript.webp" title="Javascript" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/html.webp" title="HTML" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/css.webp" title="CSS" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/bootstrap.webp" title="Bootstrap" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/tailwind.webp" title="Tailwind" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/bulma.webp" title="Bulma" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/sass.webp" title="Sass" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/figma.webp" title="Figma" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/markdown.webp" title="Markdown" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/python.webp" title="Python" /></span>
+<span><img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/php.webp" title="PHP" /></span>
 
 <h2>Projects</h2>
 
 <a href="https://shoes-landing.pages.dev/" target=”_blank”>
-    <img align="center" src="a.webp" title="Shoes landing page"/>
+    <img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/a.webp" title="Shoes landing page"/>
 </a>
 
 <a href="https://coffee-landpage.pages.dev/" target=”_blank”>
-    <img align="center" src="b.webp" title="Coffee landing page"/>
+    <img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/b.webp" title="Coffee landing page"/>
 </a>
 
 <br>
 
 <a href="https://zona-geek.pages.dev/" target=”_blank”>
-    <img align="center" src="c.webp" title="Zona Geek - web magazine"/>
+    <img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/c.webp" title="Zona Geek - web magazine"/>
 </a>
 
 <a href="https://fashion-shopping-landing.pages.dev/" target=”_blank”>
-    <img align="center" src="d.webp" title="Fashion shopping landing page"/>
+    <img align="center" src="https://raw.githubusercontent.com/erme07/erme07/refs/heads/main/d.webp" title="Fashion shopping landing page"/>
 </a>
